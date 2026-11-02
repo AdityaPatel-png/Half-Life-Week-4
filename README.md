@@ -4,6 +4,7 @@ In that, I mean that it will connect using an hdmi/display port cable and it wil
 It will use a pcb to control the heatsink system since I found an LCD panel that has premapped settings to function as a monitor.
 For the projectering I will use a very bright light with a heat blocking glass in front and make it pass through a 2k lcd panel.
 I'll make a big space for a heatsink in the case as well as all of the dials and levers that the average projector has.
+Most of the holes on the projector will just be tapped with a hand drill and a threaded insert will be fitted in.
 Main resources used: KiCad and Fusion360
 
 PCB Photos:
