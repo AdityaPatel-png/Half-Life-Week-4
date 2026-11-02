@@ -10,19 +10,19 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 3.83h | 1 |
+| Week 4 | Tier 1 | 4.08h | 1 |
 
 ## Contents
 
-1. [2026-11-01: I first spent about 2.5 hours (The additional amount listed) researching and learning how a projector functions. I decided that for my LCD projector, I would try to use a 3D printer replacement screen](#2026-11-01-i-first-spent-about-25-hours-the-additional-amoun)
+1. [2026-11-01: I first spent about 2.75 hours (The additional amount listed) researching and learning how a projector functions, as well as planning how it would. I decided that for my LCD projector, I would try to](#2026-11-01-i-first-spent-about-275-hours-the-additional-amou)
 
 ## Design
 
-### 2026-11-01: I first spent about 2.5 hours (The additional amount listed) researching and learning how a projector functions. I decided that for my LCD projector, I would try to use a 3D printer replacement screen
+### 2026-11-01: I first spent about 2.75 hours (The additional amount listed) researching and learning how a projector functions, as well as planning how it would. I decided that for my LCD projector, I would try to
 
-**3.83h**
+**4.08h**
 
-I first spent about 2.5 hours (The additional amount listed) researching and learning how a projector functions. I decided that for my LCD projector, I would try to use a 3D printer replacement screen as the LCD panel, as they usually come cheap for their resolution. I decided to attempt for 1440p at a 5.5 inch panel.The backlight would be powered on its own and I would use a PC grade heatsink to cool it. For the case, it will simply house the other parts and possibly feature a dial connect to a rack and pinion to move the LCD panel, to allow to focus at different distances from a wall. I will try to make it as compact as possible but it may be difficult. There would be a heat isolation glass between the backlight and projector to prevent it from getting damaged. Next, I began shopping for parts to find a good LCD panel that was under a thousand dollars, as well as a size that would be usable without making an enourmous build. I also made a pcb to control the backlight and the heatsink (because 100W gets hot) and it will be controlled by an Arduino nano. I will probably be funding the project myself since the parts get pretty expensive, and my next goal is to CAD a 3d printed case.
+I first spent about 2.75 hours (The additional amount listed) researching and learning how a projector functions, as well as planning how it would. I decided that for my LCD projector, I would try to use a 3D printer replacement screen as the LCD panel, as they usually come cheap for their resolution. I decided to attempt for 1440p at a 5.5 inch panel.The backlight would be powered on its own and I would use a PC grade heatsink to cool it. For the case, it will simply house the other parts and possibly feature a dial connect to a rack and pinion to move the LCD panel, to allow to focus at different distances from a wall. I will try to make it as compact as possible but it may be difficult. There would be a heat isolation glass between the backlight and projector to prevent it from getting damaged. Next, I began shopping for parts to find a good LCD panel that was under a thousand dollars, as well as a size that would be usable without making an enourmous build. I also made a pcb to control the backlight and the heatsink (because 100W gets hot) and it will be controlled by an Arduino nano. I will probably be funding the project myself since the parts get pretty expensive, and my next goal is to CAD a 3d printed case.
 
 [Timelapse](https://lookout.hackclub.com/api/media/2dac7b72-ef23-4c21-a7cd-1b6db7e40ea9/video.mp4)
 
